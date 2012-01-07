@@ -21,7 +21,12 @@
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>Scripts/FindTarget.js</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Description</key>
 	<string>Bypass AdF.ly wait time</string>
