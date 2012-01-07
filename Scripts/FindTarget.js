@@ -15,6 +15,8 @@ for (var i = 0; i < scripts.length; i++) {
 				overlay.innerHTML = "<a id='adflounder-link' href='" + target + "'>" + target + "</a>";
 				document.body.lastChild.insertAdjacentElement("afterEnd", overlay);
 				
+				window.location = target;
+				
 				break;
 			}
 		}
