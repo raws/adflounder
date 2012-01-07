@@ -27,6 +27,10 @@
 				<string>Scripts/FindTarget.js</string>
 			</array>
 		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>Stylesheets/AdFlounder.css</string>
+		</array>
 	</dict>
 	<key>Description</key>
 	<string>Bypass AdF.ly wait time</string>
